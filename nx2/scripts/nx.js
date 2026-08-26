@@ -16,8 +16,8 @@ const NX_BLOCKS = new Set(['importer', 'exp', 'site-apps', 'hero', 'card', 'sect
 
 const EW_ORIGINS = {
   dev: 'http://localhost:3001',
-  stage: 'https://main--ew-extensions--adobe-rnd.ent-aem.page',
-  prod: 'https://main--ew-extensions--adobe-rnd.ent-aem.live',
+  stage: 'https://main--ew-extensions-1128-west--ssa-eds.ent-aem.page',
+  prod: 'https://main--ew-extensions-1128-west--ssa-eds.ent-aem.live',
 };
 
 export function getColorScheme() {
